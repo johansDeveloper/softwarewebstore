@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 ene. 2023, 22:24:06
+    Author     : cp
+*/
+
+#emp_form{
+    width: 320px;
+    height: 300px;
+    border: 2px solid #4AD1E2;
+    padding: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+label
+{
+    width: 150px;
+    float: left;
+    margin-right: 0.5em;
+    display: block;
+    margin-bottom: 7px;
+}
+input
+{
+    color: #781351;
+    background: #A2E7F0;
+    border: 2px solid #4AD1E2;
+    margin-bottom: 7px;
+}
+.submit
+{
+    color: #000;
+    background: #A2E7F0;
+    border: 2px outset #4AD1E2;
+    font-weight: bold;
+}
+#clear{
+    clear:both;
+}
