@@ -1,0 +1,18 @@
+Toma de muestra fotografica, mosquera cundinamarca, ruta comercial 
+promete ser un lugar apto para implementar el software. Hora de recorrido
+09 00 - 10 -00 am los establecimientos recien inician su labor. 
+
+Se recomienda realizar la toma usando una resolucion de mayores prestasiones
+en terminos de hardware y captar mejor los detalles.
+
+NT. Las rutas de transporte presentan un declive en el numero de "clientes"
+	promete ser una buena forma de realizar el "balanceo de carga" 
+	de los recursos.
+	Lo anterios se presenta de igual manera en los vendedores informales 
+	y el comercio privado de grandes compañias.
+
+	Otros municipios con la misma problematica son prometedores de tener
+	viabilidad en implementar el software, consultar la escalabilidad en 
+	terminos de software, de modo que pueda crecer segun el numero de 
+	clientes y la capacidad de cambiar segun la demografia y sus fluctuaciones
+	que son muy miesteriosas.
