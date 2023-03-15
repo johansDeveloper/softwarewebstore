@@ -1,5 +1,5 @@
 # softwarewebstore
-Demo for project to handler sources using the clustering teory
+Demo for project to handler sources using the clustering theory
 
 
 Precaucion: los documentos y el código fuente de este repositorio son de uso privativo absténgase de realizar copias o replicar su contenido con fines lucrativos o lúdicos
